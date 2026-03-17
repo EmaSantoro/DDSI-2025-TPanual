@@ -16,6 +16,10 @@ La plataforma permite documentar, visualizar y analizar **hechos geolocalizados*
 |------------------------------------|----------------------------------------|
 | ![Crear](PublicIMG/CrearHecho.PNG) | ![Gestión](PublicIMG/PanelGestion.PNG) |
 
+| Inicio Sesion                          | Editar Hechos                          |
+|----------------------------------------|----------------------------------------|
+| ![Landing](PublicIMG/InicioSesion.PNG) | ![Explorar](PublicIMG/EditarHecho.PNG) |
+
 ---
 
 ##  Descripción del Proyecto
