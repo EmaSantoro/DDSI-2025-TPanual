@@ -207,7 +207,7 @@ DDSI-2025-TPanual/
 
 ##  Documentación
 
-- [Memoria Técnica y Justificaciones de Diseño](https://docs.google.com/document/d/16u011LlpH063zOflb_Yh9cTvy7jmLuur/edit?usp=sharing)
+- [Memoria Técnica y Justificaciones de Diseño](https://docs.google.com/document/d/1H3KNZUZ8n_5VYX67atkqP3qZ_tSuCC1R/edit?usp=sharing&ouid=110234860859130530096&rtpof=true&sd=true)
 - [Enunciado Entrega 1](https://docs.google.com/document/d/1ctxGwWrnM0XmPii38KWod9mTzphzNxxPRg9HkpXyNBg/edit)
 - [Enunciado Entrega 2](https://docs.google.com/document/d/1f7a_fd9na5_3E6EzfIyAGn0FSMXAA7OURMPiPkvz7c0/edit)
 - [Enunciado Entrega 3](https://docs.google.com/document/d/1dESN18hVwo6pg2UhyZoV4vHDD08FsRlzNQH97gd630s/edit)
