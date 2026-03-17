@@ -1,6 +1,6 @@
 # MetaMapa
 
-**MetaMapa** es un sistema de código abierto de mapeo colaborativo, desarrollado como Trabajo Práctico Anual Integrador para la materia **Diseño de Sistemas de Información (DDSI) – UTN FRBA, 2025**.
+**MetaMapa** es un sistema de mapeo colaborativo, desarrollado como Trabajo Práctico Anual Integrador para la materia **Diseño de Sistemas de Información (DDSI) – UTN FRBA, 2025**.
 
 La plataforma permite documentar, visualizar y analizar **hechos geolocalizados** de forma transparente, verificable y colaborativa. Está diseñada para ser instalada y operada por ONGs, universidades u organismos estatales, priorizando la privacidad de sus usuarios y la integridad de la información.
 
